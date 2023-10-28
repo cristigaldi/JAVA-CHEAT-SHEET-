@@ -25,3 +25,25 @@ Operadores RELACIONALES
     <= --> MENOR QUE 
     >= --> MAYOR O IGUAL QUE 
     <= --> MENOR O IGUAL QUE 
+
+CONDICIONALES 
+
+IF (hora <12) {
+System.out.println("Buenos dias");
+} else if ( hora <20) {
+System.out.println("Buenos tardes");
+} else {
+System.out.println("Buenos noches");
+}
+
+swich (numero)
+    case 1:
+    System.out.println("rojo");
+    break;
+
+    case 2:
+    System.out.println("azul);
+    break;
+
+    default:
+    System.out.println("Numero incorrecto");

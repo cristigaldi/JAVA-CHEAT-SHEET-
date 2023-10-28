@@ -36,8 +36,12 @@ System.out.println("Buenos tardes");
 System.out.println("Buenos noches");
 }
 
-switch (numero)
-{  
+
+Scanner numero = new Scanner (System.in);
+    System.out.println("Dime 1 o 2 y te dire un color");
+    int color  = numero.nextInt();
+switch (color)
+{    
     case 1:
     System.out.println("rojo");
     break;

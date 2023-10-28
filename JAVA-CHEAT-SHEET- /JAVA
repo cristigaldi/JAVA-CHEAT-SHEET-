@@ -36,13 +36,13 @@ System.out.println("Buenos tardes");
 System.out.println("Buenos noches");
 }
 
-swich (numero)
+switch (numero)
     case 1:
     System.out.println("rojo");
     break;
 
     case 2:
-    System.out.println("azul);
+    System.out.println("azul");
     break;
 
     default:

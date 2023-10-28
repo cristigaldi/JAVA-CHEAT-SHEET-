@@ -1,31 +1,3 @@
-Operadores ARITMETICOS 
-    + --> Suma de dos numeros
-    - --> Resta dos numeros
-    * --> Multiplica dos numeros 
-    / --> Divice con decimales dos numeros
-    % --> Obtiene el resto de una division
-
-Operadores LOGICOS
-    AND &&
-    OR ||
-    NOT !
-
-Operadores de ASIGNACION
-    =  --> int a=b;
-    += --> int a+ = b; --> int a = a - b;
-    -= --> int a- = b; --> int a = a - b;
-    *= --> int a* = b; --> int a = a * b;
-    /= --> int a/ = b; --> int a = a / b;
-    %= --> int a% = b; --> int a = a % b;
-
-Operadores RELACIONALES
-    == --> IGUAL QUE 
-    != --> DISTINTO 
-    >= --> MAYOR QUE
-    <= --> MENOR QUE 
-    >= --> MAYOR O IGUAL QUE 
-    <= --> MENOR O IGUAL QUE 
-
 CONDICIONALES 
 
 IF (hora <12) {

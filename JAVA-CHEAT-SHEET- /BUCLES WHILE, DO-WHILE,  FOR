@@ -60,3 +60,11 @@ int aleatorio=(int)(Math.random()*100);
           
         } while(numero!=aleatorio);
         System.out.println("Correcto. Lo has conseguido en " + intentos + " intentos");
+
+
+FOR SINTAXIS
+
+for(inicio bucle, condicion, contador bucle){
+        linea1
+        linea2
+}
